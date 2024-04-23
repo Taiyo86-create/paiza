@@ -53,11 +53,11 @@
 # # 整数方を文字列に変換
 # puts a.to_s.length
 
-num = 1022221200
-count = 0
+# num = 1022221200
+# count = 0
 
-(10000..99999).each do |i|
-    count += 1 if num % i == 0
-end
+# (10000..99999).each do |i|
+#     count += 1 if num % i == 0
+# end
 
-puts count
+# puts count
